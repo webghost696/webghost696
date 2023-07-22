@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Habib</h1>
 
-<img align="right" alt="coding" width="400" src="https://github.com/kishan0725.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 - 🌱 I’m currently learning **DSA using pyhton**
 
