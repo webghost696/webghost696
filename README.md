@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
-- 🌱 I’m currently learning **DSA using pyhton**
+- 🌱 I’m currently learning **DSA using C++**
 
 - 📫 How to reach me **yashhabib123@gmail.com**
 
